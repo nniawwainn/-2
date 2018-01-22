@@ -9,11 +9,19 @@
     3. Oddmuse
     4. PmWiki (с помощью плагина)
 2. Блоги:
-    1. Tumblr — изначально отключён, но можно использовать, включив в настройках.
-    1. scriptogr.am
+    - Tumblr — изначально отключён, но можно использовать, включив в настройках.
+    - scriptogr.am
 3. CMS:
-    1. Drupal — content-фильтр Markdown[43]
-    1. Magento — с помощью модуля[44]
-    1. Plone — «родная» поддержка в Plone 3
-    1. TYPO3 — с помощью плагина af_markdown[45]
-    1. RadiantCMS — один из видов разметки, доступный «из коробки»[46]
+    - Drupal — content-фильтр Markdown[43]
+    - Magento — с помощью модуля[44]
+    - Plone — «родная» поддержка в Plone 3
+    - TYPO3 — с помощью плагина af_markdown[45]
+    - RadiantCMS — один из видов разметки, доступный «из коробки»[46]
+#### Таблица
+1|2
+---|:---:
+Разработчик|Джон Грубер
+Опубликован|2004-03-19
+Сайт|(<https://daringfireball.net/projects/markdown/>)
+#### Markdown Syntax in gredit
+![](https://upload.wikimedia.org/wikipedia/commons/9/94/Markdown_Syntax_in_gedit.png)
